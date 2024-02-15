@@ -7,7 +7,7 @@
 
 <!-- /!\ do not modify above this line -->
 
-# project-reporting
+# Reports for project
 
 TODO: add repo description.
 
